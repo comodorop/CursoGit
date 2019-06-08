@@ -14,6 +14,9 @@ saludar("Hola mundo").then(msg =>{
     console.log("se termino el mensaje")
 }).catch(err=>{
     console.log(err)
+})
+
+
 });
 
 
@@ -21,13 +24,5 @@ console.log("Mensaje 1");
 console.log("Mensaje 2");
 console.log("Mensaje 3");
 
-
-
-
-
-
-
-
-
-
+console.log("Israel Domínguez")
 console.log("Ricardo Ancona");
