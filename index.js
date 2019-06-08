@@ -27,5 +27,15 @@ console.log("Mensaje 3");
 console.log("Adolfo ESteban");
 console.log("Esther Paz");
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+=======
 console.log("Israel Domínguez")
+>>>>>>> 38d5dd3e0118d0f1d48d83ef65a6899b6e5980cf
 console.log("Ricardo Ancona");
