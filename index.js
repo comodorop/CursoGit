@@ -8,4 +8,9 @@ function saludar(saludo) {
 
 }
 
-saludar("Hola mundo")
+
+saludar("Hola mundo").then(msg =>{
+    console.log("se termino el mensaje")
+}).catch(err=>{
+    console.log(err)
+})
