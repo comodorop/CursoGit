@@ -24,12 +24,12 @@ console.log("Mensaje 1");
 console.log("Mensaje 2");
 console.log("Mensaje 3");
 
-<<<<<<< HEAD
 console.log("Darwin Vallejo Juarez");
-=======
 console.log("Adolfo ESteban");
 console.log("Esther Paz");
 
 console.log("Israel Domínguez")
->>>>>>> 38d5dd3e0118d0f1d48d83ef65a6899b6e5980cf
+
+console.log("Darwin Vallejo Juarez");
+console.log("Israel Domínguez")
 console.log("Ricardo Ancona");
