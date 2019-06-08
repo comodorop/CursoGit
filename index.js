@@ -1,12 +1,10 @@
 
-function saludar(String valor){
-//AQUI HAY UN ERROR.
-//SI ENCUENTRAS EL ERROR NOTIFIA AL PROFESOR
+function saludar(saludo){
 try {
-    console.log("Primer mensaje")
+    console.log(saludo)
 } catch (error) {
     console.log(error)
 }
 }
 
-saludar()
+saludar("Hola mundo")
