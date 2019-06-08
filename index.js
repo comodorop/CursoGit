@@ -15,3 +15,5 @@ saludar("Hola mundo").then(msg =>{
 }).catch(err=>{
     console.log(err)
 })
+
+console.log("Israel Domínguez")
