@@ -13,5 +13,9 @@ saludar("Hola mundo").then(msg =>{
     console.log("se termino el mensaje")
 }).catch(err=>{
     console.log(err)
-})
-//hola soy esther
+});
+
+
+console.log("Mensaje 1");
+console.log("Mensaje 2");
+console.log("Mensaje 3");
