@@ -1,10 +1,11 @@
+import { promises } from "fs";
 
-function saludar(saludo){
-try {
-    console.log(saludo)
-} catch (error) {
-    console.log(error)
-}
+function saludar(saludo) {
+    return new promises((resolve, reject) => {
+        console.log(saludo)
+        console.log(error)
+    })
+
 }
 
 saludar("Hola mundo")
