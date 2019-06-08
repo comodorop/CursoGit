@@ -20,4 +20,18 @@ saludar("Hola mundo").then(msg =>{
 console.log("Mensaje 1");
 console.log("Mensaje 2");
 console.log("Mensaje 3");
+<<<<<<< HEAD
 console.log("Luis Mejia Poot")
+=======
+
+
+
+
+
+
+
+
+
+
+console.log("Ricardo Ancona");
+>>>>>>> 3f21e1d80486af13aee82af92d12414d9b6dd4fc
